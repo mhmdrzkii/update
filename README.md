@@ -4,10 +4,6 @@ saya hanya memperbaiki sebagian fitur yg error.
 
 - Telah menggunakan Sessions Multi auth state.
 
-<p align="center">
-	<img src="https://telegra.ph/file/2f2dff89c65c9e5a1dddc.png" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<h1 align="center">BOTCAHX</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
@@ -33,9 +29,6 @@ $ pm2 start "npm start" && pm2 [token] && pm2 save && pm2 logs
 ## Ingin Beli Gh Student Murah ?
 [`Beli Disini`](https://wa.me/6285842647866?text=Bang+Mau+Beli+Akun+Gh+Student)
 
-## Group Discussion
-- Join grup dibawah jika kamu ada pertanyaan, kamu bertanya-tanya?.
-[`Group Link`](https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r)
 ## My Project
 * Script Plugins [`Go here`](https://github.com/BOTCAHX/RTXZY-MD) (`Multiple Sessions Bot`)
 * Original Script [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow) (Sc Original)
